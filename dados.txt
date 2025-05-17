@@ -1,8 +1,8 @@
 Dados do aluno
 
 -Primeiro Nome: Caio
--Profissão: Meu Cargo Atual
--Cidade: Minha Cidade
+-Profissão: Analista de Qualidade
+-Cidade: Feira de Santana
 -O que faz nas horas vaga: Estudo, Jogo e Assistir
 -Feedback sobre o curso Qualidade de Software: Impressionante! Cada modulo, evolui minha carreira Profissão
 -Feedback sobre a plataforma de estudo da EBAC: Maravilhosa! Possui Acessibilidade.
